@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Soda Depot</string>
+    <string name="soda">Soda Depot logo</string>
+    <string name="pepsi">Pepsi logo</string>
+    <string name="coke">Coke logo</string>
+    <string name="sprite">Sprite logo</string>
+    <string-array name="options">
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Stores</item>
+    </string-array>
+</resources>
